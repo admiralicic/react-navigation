@@ -1,0 +1,3 @@
+rootProject.name = 'RNModalScreens'
+
+include ':app'
